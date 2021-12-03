@@ -1,3 +1,0 @@
-# JunDay.github.io
-
-hello
